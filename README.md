@@ -11,7 +11,7 @@ The database folder contains all the feature for the project. Download database 
 *	"**covid-19 CNN.ipynb**" contains the entire code for feature selection and classifying the sequential cnn model.
 *	"**covid-19 ANN.ipynb**" contains the entire code for feature selection and classifying the sequential ann model.
 *	"**final_auto_encoding.ipynb**" contains the code for better performance.
-*	"**encoding_model_with_sequential_mode_covid.ipynb**" contains the entire code where taking the model after encoding and then merge it     with a sequential multi-layer cnn model.
+*	"**encoding_model_with_sequential_mode_covid.ipynb**" contains the entire code where the model is taken after encoding and then it is       merged with a sequential multi-layer cnn model.
 
 
 ######   Performance Metrics
